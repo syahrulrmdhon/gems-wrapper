@@ -1,6 +1,6 @@
 import './App.css'
 
-const GAS_URL="https://script.google.com/macros/s/AKfycbwDxH-NIoGrE278oGY7pQjrc8szPtgRQhudS2MBadTJ1gmyAiLsTwNBWTHggYayw43Z/exec";
+const GAS_URL="https://script.google.com/macros/s/AKfycbyDHHYqpACnRFLLau5_p6PjaIBkoLnGhTXAOrZQOKKCY1ccz3Z4LqsmBH_n64mW8UO2fw/exec"
 
 function App(){
   return (
